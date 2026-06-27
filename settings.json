@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Mast_smp.aternos.me
+    "ip": "Mast_smp.aternos.me:36976"
     ",
     "port": 36976,
     "version": "1.20.1",
